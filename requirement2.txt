@@ -1,0 +1,7 @@
+# requirements.txt (with specific versions)
+
+pandas
+numpy
+SQLAlchemy
+psycopg2-binary
+python-dotenv
