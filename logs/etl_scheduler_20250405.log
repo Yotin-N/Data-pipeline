@@ -1,0 +1,5 @@
+2025-04-05 21:49:12,077 - ETL_Scheduler - INFO - Scheduler initialized with jobs
+2025-04-05 21:49:12,077 - ETL_Scheduler - INFO - Full ETL job scheduled for 6 AM daily
+2025-04-05 21:49:12,077 - ETL_Scheduler - INFO - Incremental ETL job scheduled hourly
+2025-04-05 21:49:12,077 - ETL_Scheduler - INFO - Scheduler running...
+2025-04-05 21:49:39,824 - ETL_Scheduler - INFO - Scheduler stopped by user
